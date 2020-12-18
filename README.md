@@ -45,7 +45,7 @@ você acabou de clonar !!
 |       ✅        |   Que anime é este |
 
 ## Agradecimentos 
-* [`adiwajshing/Baileys`](https://github.com/mhankbarbar)
+* [`mhankbarbar`](https://github.com/mhankbarbar)
 
 ## Grupo
 * [`WhatsApp`](https://chat.whatsapp.com/DLZcrgNEnBbKXvS7ZGlKbU)
