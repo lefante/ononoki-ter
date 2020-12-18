@@ -4,7 +4,7 @@ const {
     MessageOptions
 } = require('@adiwajshing/baileys')
 const { color, bgcolor } = require('./lib/color')
-const { help } = require('./src/help')
+const { help } = require('./scr/help')
 const { wait } = require('./lib/functions')
 const axios = require("axios");
 const imageToBase64 = require('image-to-base64');
@@ -51,7 +51,7 @@ async function start() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `menos um 👋`
+				teks = `menos um ðŸ‘‹`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks})
 			}
@@ -76,7 +76,7 @@ async function start() {
 				if (body.startsWith('#tts ')) {
 					rendom = `${Math.floor(Math.random() * 10000)}.mp3`
 					random = `${Math.floor(Math.random() * 20000)}.ogg`
-					if (args.length < 1) return client.sendMessage(from, 'Digite o c�digo do idioma tamb�m', msgType.text, {quoted: mek})
+					if (args.length < 1) return client.sendMessage(from, 'Digite o código do idioma também', msgType.text, {quoted: mek})
 					const gtts = require('./lib/gtts')(args[1])
 					const dtt = body.slice(8)
 					if (!dtt) return client.sendMessage(from, 'Digite o texto para tornar a voz muito forte', msgType.text, {quoted: mek})
@@ -111,7 +111,7 @@ async function start() {
 						if (!teks) return client.sendMessage(from, 'Input teks yang ingin di tulis', msgType.text, {quoted: mek})
 						const anu = await fetchJson(`https://mhankbarbars.herokuapp.com/nulis?text=${teks}&apiKey=${apiKey}`, {method: 'get'})
 						const buffer = await getBuffer(anu.result)
-						client.sendMessage(from, buffer, msgType.image, {quoted: mek, caption: 'Sukses nulis ✓'})
+						client.sendMessage(from, buffer, msgType.image, {quoted: mek, caption: 'Sukses nulis âœ“'})
 					} catch (e) {
 						console.log(`Error : ${e}`)
 						client.sendMessage(from, 'Gagal nulis *X*', msgType.text, {quoted: mek})
