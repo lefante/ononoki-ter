@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/bNAmAbE.gif/revision/latest/top-crop/width/300/height/300?cb=20190417164406" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Ononoki-Bot" src="https://img.shields.io/badge/Ter Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Ononoki-Bot" src="https://img.shields.io/badge/Ononoki-ter-bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/lefante"><img title="De" src="https://img.shields.io/badge/Lefante-red.svg?style=for-the-badge&logo=github"></a>
