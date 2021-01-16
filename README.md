@@ -28,24 +28,50 @@ você acabou de clonar !!
 > npm start
 ```
 
+### Informação
+```
+prefixo = .
+```
+
 ## Funções
 
-| Criador de figurinhas |                Função           |
+| Criador de sticker |                Função           |
 | :-----------: | :--------------------------------: |
-|       ✅       | Enviar foto com legenda          |
-|       ✅       | Imagem para figurinha                    |
-|       ✅       | vídeo ou GIF  para figurinha            |
-|       ✅       | Enviar vídeo ou GIF com legenda   |
-|       ✅       | figurinha para imagem  |
+|       ✅       | Mande foto com o comando          |
+|       ✅       | Responder a uma foto                   |
+|       ✅       | Responder a um vídeo ou Gif             |
+|       ✅       | Mande vídeo ou Gif com comando   |
+|       ✅       | Responder a um sticker ( sticker para imagem ) |
 
 | Outros  |                     Função                     |
 | :------------: | :---------------------------------------------: |
-|       ✅        |   Texto para fala                |
-|       ✅        |   Recurso de escrita |
-|       ✅        |   Que anime é este |
+|       ✅        |   Meme aleatório             |
+|       ✅        |   Texto Para fala                |
+|       ✅        |   Função de escrever 				|
+|       ✅        |   Que anime é esse 			|
+|       ✅        |   Url2Img ( Print da web )   |
+|       ✅        |   Simsimi		                |
+
+| Grupo  |                     Função               |
+| :-----------: | :--------------------------------: |
+|       ✅        |   Marcar/Mencionar membros       |
+|       ✅        |   Marcar2/Mencionar membros       |
+|       ✅        |   Marcar3/Mencionar membros       |
+|       ✅        |   Banir membro do grupo	             |
+|       ✅        |   Adicionar membro no grupo	             |
+|       ✅        |   Lista de adms do grupo          |
+|       ✅        |   Link de convite do grupo          |
+|       ✅        |   Fazer o Bot sair do grupo            |
+
+| Proprietário do Bot  |                     Função           |
+| :-----------: | :--------------------------------: |
+|       ✅        |   Mudar prefixo                     |
+|       ✅        |   Transmissão                      |
+|       ✅        |   Limpar todos os chats                |
 
 ## Agradecimentos 
 * [`mhankbarbar`](https://github.com/mhankbarbar)
 
 ## Grupo
-* [`WhatsApp`](https://chat.whatsapp.com/DLZcrgNEnBbKXvS7ZGlKbU)
+* [`WhatsApp`](https://chat.whatsapp.com/KmbpU1zwh3b6P60tAaFFQM)
+
